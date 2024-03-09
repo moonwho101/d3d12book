@@ -1,3 +1,5 @@
+Sample code for the book "Introduction to 3D Game Programming with DirectX 12"
+
 # Dungeon Stomp DirectX12
 
 Dungeon Stomp DirectX12 was made using "Introduction to 3D Game Programming with DirectX 12" by Frank Luna as a reference
